@@ -1,4 +1,5 @@
 @charset "EUC-KR";
 main{
 	color : yellow;
+	font-weight: bold;
 }
